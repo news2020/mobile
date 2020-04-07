@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_201"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="res"/>
+	<classpathentry kind="lib" path="C:/Users/Manager/.p2/pool/plugins/org.eclipse.osgi_3.13.300.v20190218-1622.jar" sourcepath="C:/Users/Manager/.p2/pool/plugins/org.eclipse.osgi_3.13.300.v20190218-1622.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manager/.p2/pool/plugins/org.eclipse.core.commands_3.9.300.v20190215-1957.jar" sourcepath="C:/Users/Manager/.p2/pool/plugins/org.eclipse.core.commands_3.9.300.v20190215-1957.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manager/.p2/pool/plugins/org.eclipse.equinox.common_3.10.300.v20190218-2100.jar" sourcepath="C:/Users/Manager/.p2/pool/plugins/org.eclipse.equinox.common_3.10.300.v20190218-2100.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manager/.p2/pool/plugins/org.eclipse.equinox.registry_3.8.300.v20190218-2100.jar" sourcepath="C:/Users/Manager/.p2/pool/plugins/org.eclipse.equinox.registry_3.8.300.v20190218-2100.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manager/.p2/pool/plugins/org.eclipse.core.runtime_3.15.200.v20190301-1641.jar" sourcepath="C:/Users/Manager/.p2/pool/plugins/org.eclipse.core.runtime_3.15.200.v20190301-1641.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manager/.p2/pool/plugins/org.eclipse.text_3.8.100.v20190306-1823.jar" sourcepath="C:/Users/Manager/.p2/pool/plugins/org.eclipse.text_3.8.100.v20190306-1823.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manager/.p2/pool/plugins/org.eclipse.swt.win32.win32.x86_64_3.110.0.v20190305-0602.jar" sourcepath="C:/Users/Manager/.p2/pool/plugins/org.eclipse.swt.win32.win32.x86_64_3.110.0.v20190305-0602.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manager/.p2/pool/plugins/org.eclipse.jface_3.15.100.v20190222-1334.jar" sourcepath="C:/Users/Manager/.p2/pool/plugins/org.eclipse.jface_3.15.100.v20190222-1334.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manager/.p2/pool/plugins/org.eclipse.jface.text_3.15.100.v20190305-0811.jar" sourcepath="C:/Users/Manager/.p2/pool/plugins/org.eclipse.jface.text_3.15.100.v20190305-0811.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manager/.p2/pool/plugins/org.eclipse.ui.workbench_3.113.0.v20190219-1432.jar" sourcepath="C:/Users/Manager/.p2/pool/plugins/org.eclipse.ui.workbench_3.113.0.v20190219-1432.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manager/.p2/pool/plugins/com.ibm.icu_63.1.0.v20181030-1705.jar" sourcepath="C:/Users/Manager/.p2/pool/plugins/com.ibm.icu_63.1.0.v20181030-1705.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manager/.p2/pool/plugins/org.eclipse.ui.forms_3.7.500.v20190216-1545.jar" sourcepath="C:/Users/Manager/.p2/pool/plugins/org.eclipse.ui.forms_3.7.500.v20190216-1545.jar"/>
+	<classpathentry kind="lib" path="jgoodies-forms-1.8.0.jar" sourcepath="jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/fluent-hc-4.5.10.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-4.5.10.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-cache-4.5.10.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-osgi-4.5.10.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-win-4.5.10.jar"/>
+	<classpathentry kind="lib" path="lib/httpcore-4.4.12.jar"/>
+	<classpathentry kind="lib" path="lib/httpmime-4.5.10.jar"/>
+	<classpathentry kind="lib" path="lib/jna-4.5.2.jar"/>
+	<classpathentry kind="lib" path="lib/jna-platform-4.5.2.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-core-2.10.3.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-annotations-2.10.3.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-databind-2.10.3.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang3-3.9.jar"/>
+	<classpathentry kind="lib" path="lib/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="lib/commons-compress-1.19.jar"/>
+	<classpathentry kind="lib" path="lib/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/jaxb-core-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/jaxb-impl-2.3.2.jar"/>
+	<classpathentry kind="lib" path="lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="lib/poi-4.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/poi-ooxml-4.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/poi-ooxml-schemas-4.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/poi-scratchpad-4.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.7.30.jar"/>
+	<classpathentry kind="lib" path="lib/logback-classic-1.2.3.jar"/>
+	<classpathentry kind="lib" path="lib/logback-core-1.2.3.jar"/>
+	<classpathentry kind="lib" path="lib/curvesapi-1.06.jar"/>
+	<classpathentry kind="lib" path="lib/xmlbeans-3.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
